@@ -1,0 +1,421 @@
+[
+  {
+    "input": "*darei/ou",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">*darei/ou</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">*darei=os</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>*da_rei_</stem><suff>ou</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>os_ou</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "kai\\",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">kai\\</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">kai/</hdwd>\n<pofs order=\"0\">conjunction</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>kai/</stem></term>\n<pofs order=\"0\">conjunction</pofs>\n<stemtype>conj</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "*parusa/tidos",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">*parusa/tidos</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">*paru/satis</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>*parusat</stem><suff>idos</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>is_idos</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "gi/gnontai",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">gi/gnontai</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">gi/gnomai</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>gign</stem><suff>ontai</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>plural</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>mediopassive</voice>\n<stemtype>w_stem</stemtype>\n<derivtype>reg_conj</derivtype>\n<morph>pres_redupl</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "pai=des",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">pai=des</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">pai=s</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine/feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=des</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=des</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=des</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=des</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "du/o",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">du/o</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">du/o</hdwd>\n<pofs order=\"4\">numeral</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>du/o</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>du/o</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>du/o</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>du/o</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>du/o</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>du/o</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "presbu/teros",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">presbu/teros</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">pre/sbus</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>presbuter</stem><suff>os</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>os_h_on</stemtype>\n<morph>irreg_comp</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "me\\n",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">me\\n</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">me/n</hdwd>\n<pofs order=\"0\">particle</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>me/n</stem></term>\n<pofs order=\"0\">particle</pofs>\n<stemtype>particle</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "*)artace/rchs",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">*)artace/rchs</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">*)artace/rchs</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>*)artacerc</stem><suff>hs</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>hs_ou</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "new/teros",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">new/teros</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">ne/os</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>ne</stem><suff>w/teros</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<comp>comparative</comp>\n<num>singular</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>ne</stem><suff>w/teros</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<comp>comparative</comp>\n<num>singular</num>\n<dial>Attic</dial>\n<stemtype>os_on</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">new/teros</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>newter</stem><suff>os</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "de\\",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">de\\</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">de/</hdwd>\n<pofs order=\"0\">particle</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>de/</stem></term>\n<pofs order=\"0\">particle</pofs>\n<stemtype>particle</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "*ku=ros:",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">*ku=ros:</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">*ku=ros</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>*ku_r</stem><suff>os</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>os_ou</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "e)pei\\",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">e)pei\\</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">e)pei/</hdwd>\n<pofs order=\"0\">conjunction</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>e)pei/</stem></term>\n<pofs order=\"0\">conjunction</pofs>\n<stemtype>conj</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "de\\",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">de\\</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">de/</hdwd>\n<pofs order=\"0\">particle</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>de/</stem></term>\n<pofs order=\"0\">particle</pofs>\n<stemtype>particle</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "h)sqe/nei",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">h)sqe/nei</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">a)sqene/w</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)sqen</stem><suff>ei</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>imperfect</tense>\n<voice>active</voice>\n<dial>Attic epic Ionic</dial>\n<stemtype>ew_pr</stemtype>\n<derivtype>ew_denom</derivtype>\n<morph>contr</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "*darei=os",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">*darei=os</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">*darei=os</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>*da_rei_</stem><suff>os</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>os_ou</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "kai\\",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">kai\\</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">kai/</hdwd>\n<pofs order=\"0\">conjunction</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>kai/</stem></term>\n<pofs order=\"0\">conjunction</pofs>\n<stemtype>conj</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "u(pw/pteue",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">u(pw/pteue</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">u(popteu/w</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>u(po/:o)pteu</stem><suff>e</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>imperfect</tense>\n<voice>active</voice>\n<stemtype>w_stem</stemtype>\n<derivtype>euw</derivtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "teleuth\\n",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">teleuth\\n</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">teleuth/</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>teleut</stem><suff>hn</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<dial>Attic epic Ionic</dial>\n<stemtype>h_hs</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "tou=",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">tou=</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">o(</hdwd>\n<pofs order=\"0\">article</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tou=</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tou=</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>singular</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">ti/s</hdwd>\n<pofs order=\"0\">irregular</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tou=</stem></term>\n<pofs order=\"0\">irregular</pofs>\n<case order=\"6\">genitive</case>\n<num>singular</num>\n<dial>Attic</dial>\n<stemtype>indecl</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">tis</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tou=</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<num>singular</num>\n<dial>Attic</dial>\n<stemtype>indef</stemtype>\n<morph>enclitic indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "bi/ou",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">bi/ou</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">bi/os</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>bi</stem><suff>ou</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>os_ou</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">bio/w</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>bi</stem><suff>ou</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>imperative</mood>\n<num>singular</num>\n<pers>2nd</pers>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>ow_pr</stemtype>\n<derivtype>ow_denom</derivtype>\n<morph>contr</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>bi</stem><suff>ou</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>2nd</pers>\n<tense>imperfect</tense>\n<voice>mediopassive</voice>\n<dial>Attic epic Doric</dial>\n<stemtype>w_stem</stemtype>\n<morph>contr unaugmented</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>bi</stem><suff>ou</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>imperfect</tense>\n<voice>active</voice>\n<dial>Homeric Ionic</dial>\n<stemtype>ow_pr</stemtype>\n<derivtype>ow_denom</derivtype>\n<morph>contr unaugmented</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "e)bou/leto",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">e)bou/leto</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">bou/lomai</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>e):boul</stem><suff>eto</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>imperfect</tense>\n<voice>mediopassive</voice>\n<stemtype>w_stem</stemtype>\n<derivtype>nw</derivtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "tw\\",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">tw\\</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">o(</hdwd>\n<pofs order=\"0\">article</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"0\">article</pofs>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>article</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">tw=|</hdwd>\n<pofs order=\"7\">adverb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>tw/</stem></term>\n<pofs order=\"7\">adverb</pofs>\n<stemtype>adverb</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "pai=de",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">pai=de</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">pai=s</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine/feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=de</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=de</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=de</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=de</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=de</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>pai=de</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>dual</num>\n<stemtype>irreg_decl3</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "a)mfote/rw",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">a)mfote/rw</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">a)mfo/teros</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>dual</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<num>dual</num>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<dial>Doric Aeolic</dial>\n<stemtype>os_h_on</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>a)mfoter</stem><suff>w</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>singular</num>\n<dial>Doric Aeolic</dial>\n<stemtype>os_h_on</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "parei=nai",
+    "expected": "<words>\n<word>\n<form xml:lang=\"grc-x-beta\">parei=nai</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">pa/reimi1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>para/:ei)=nai</stem></term>\n<pofs order=\"1\">verb</pofs>\n<mood>infinitive</mood>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>irreg_mi</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"grc-x-beta\">pari/hmi</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>para/:ei(=nai</stem></term>\n<pofs order=\"1\">verb</pofs>\n<mood>infinitive</mood>\n<tense>aorist</tense>\n<voice>active</voice>\n<stemtype>ath_secondary</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"grc-x-beta\"><stem>para/:ei(=nai</stem></term>\n<pofs order=\"1\">verb</pofs>\n<mood>infinitive</mood>\n<tense>aorist</tense>\n<voice>active</voice>\n<stemtype>irreg_mi</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n"
+  },
+  {
+    "input": "Gallia",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">gallia</unknown>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "est",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">est</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">edo#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>e_st</stem></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>irreg_pp1</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">sum#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>est</stem></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>irreg_pp1</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "omnis",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">omnis</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">omne</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>neuter</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>singular</num>\n<stemtype>is_is</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">omnes</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine/feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>is_is</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>is_is</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">omnis</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "divisa",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">divisa</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">divido</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a_</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">divisor</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a_</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "in",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">in</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">in</hdwd>\n<pofs order=\"6\">preposition</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>in</stem></term>\n<pofs order=\"6\">preposition</pofs>\n<stemtype>prep</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "partes",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">partes</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">pars</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>par</stem><suff>te_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>s_tis</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>par</stem><suff>te_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>s_tis</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>par</stem><suff>te_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>s_tis</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "tres",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">tres</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">tres</hdwd>\n<pofs order=\"4\">numeral</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "quarum",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">quarum</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>relative</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>indef</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "unam",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">unam</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">unus</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>u_n</stem><suff>am</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>us_ius_adj</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "incolunt",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">incolunt</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">incolo#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>incol</stem><suff>unt</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>plural</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>conj3</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "Belgae",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">belgae</unknown>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "aliam",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">aliam</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">alius#2</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>aliam</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>irreg_nom2</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "Aquitani",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">aquitani</unknown>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "tertiam",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">tertiam</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">tertius</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>tert</stem><suff>iam</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>ius_ia_ium</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "qui",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">qui</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>relative</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>relative</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>indef</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "ipsorum",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">ipsorum</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">ipse</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>ipso_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>demonstr</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>ipso_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>demonstr</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "lingua",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">lingua</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">lingua</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>lingu</stem><suff>a_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>a_ae</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>lingu</stem><suff>a</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>a_ae</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>lingu</stem><suff>a</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>a_ae</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "Celtae",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">celtae</unknown>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "nostra",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">nostra</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">noster</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra_</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "Galli",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">galli</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">gallus#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>gall</stem><suff>i_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>us_i</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>gall</stem><suff>i_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>us_i</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>gall</stem><suff>i_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>us_i</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "appellantur",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">appellantur</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">appello</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>appell</stem><suff>antur</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>plural</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>passive</voice>\n<stemtype>conj1</stemtype>\n<derivtype>are_vb</derivtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">appello#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>appell</stem><suff>antur</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>subjunctive</mood>\n<num>plural</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>passive</voice>\n<stemtype>conj3</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L"
+    ]
+  },
+  {
+    "input": "Gallia",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">gallia</unknown>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "est",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">est</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">edo#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>e_st</stem></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>irreg_pp1</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">sum#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>est</stem></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>singular</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>irreg_pp1</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "omnis",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">omnis</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">omne</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>neuter</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>singular</num>\n<stemtype>is_is</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">omnes</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine/feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>is_is</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>is_is</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">omnis</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>i_s</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>omn</stem><suff>is</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>is_e</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "divisa",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">divisa</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">divido</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a_</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>di_vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">divisor</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<mood>participle</mood>\n<num>plural</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a_</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>dis:vi_s</stem><suff>a</suff></term>\n<pofs order=\"0\">verb participle</pofs>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<mood>participle</mood>\n<num>singular</num>\n<tense>perfect</tense>\n<voice>passive</voice>\n<stemtype>pp4</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "in",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">in</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">in</hdwd>\n<pofs order=\"6\">preposition</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>in</stem></term>\n<pofs order=\"6\">preposition</pofs>\n<stemtype>prep</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "partes",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">partes</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">pars</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>par</stem><suff>te_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>s_tis</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>par</stem><suff>te_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>s_tis</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>par</stem><suff>te_s</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>s_tis</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "tres",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">tres</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">tres</hdwd>\n<pofs order=\"4\">numeral</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"4\">accusative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>tre_s</stem></term>\n<pofs order=\"4\">numeral</pofs>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>numeral</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "quarum",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">quarum</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>relative</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qua_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>feminine</gend>\n<num>plural</num>\n<stemtype>indef</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "unam",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">unam</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">unus</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>u_n</stem><suff>am</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>3rd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>us_ius_adj</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "incolunt",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">incolunt</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">incolo#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>incol</stem><suff>unt</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>plural</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>active</voice>\n<stemtype>conj3</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "Belgae",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">belgae</unknown>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "aliam",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">aliam</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">alius#2</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>aliam</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>irreg_nom2</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "Aquitani",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">aquitani</unknown>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "tertiam",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">tertiam</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">tertius</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>tert</stem><suff>iam</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>ius_ia_ium</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "qui",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">qui</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">qui#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>relative</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>relative</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"3\">noun</pofs>\n<decl>3rd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>interrog</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">quis#2</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>qui_</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>indef</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "ipsorum",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">ipsorum</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">ipse</hdwd>\n<pofs order=\"5\">pronoun</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>ipso_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>demonstr</stemtype>\n<morph>indeclform</morph>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>ipso_rum</stem></term>\n<pofs order=\"5\">pronoun</pofs>\n<case order=\"6\">genitive</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>demonstr</stemtype>\n<morph>indeclform</morph>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "lingua",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">lingua</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">lingua</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<gend>feminine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>lingu</stem><suff>a_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>a_ae</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>lingu</stem><suff>a</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>a_ae</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>lingu</stem><suff>a</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>1st</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>a_ae</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "Celtae",
+    "expected": "<words>\n<unknown xml:lang=\"lat\">celtae</unknown>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "nostra",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">nostra</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">noster</hdwd>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"4\">accusative</case>\n<gend>neuter</gend>\n<num>plural</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra_</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"3\">ablative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>nost</stem><suff>ra</suff></term>\n<pofs order=\"2\">adjective</pofs>\n<decl>1st &amp; 2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>feminine</gend>\n<num>singular</num>\n<stemtype>er_ra_rum</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "Galli",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">galli</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">gallus#1</hdwd>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<gend>masculine</gend>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>gall</stem><suff>i_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"7\">nominative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>us_i</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>gall</stem><suff>i_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"1\">vocative</case>\n<gend>masculine</gend>\n<num>plural</num>\n<stemtype>us_i</stemtype>\n</infl>\n<infl>\n<term xml:lang=\"lat\"><stem>gall</stem><suff>i_</suff></term>\n<pofs order=\"3\">noun</pofs>\n<decl>2nd</decl>\n<case order=\"6\">genitive</case>\n<gend>masculine</gend>\n<num>singular</num>\n<stemtype>us_i</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  },
+  {
+    "input": "appellantur",
+    "expected": "<words>\n<word>\n<form xml:lang=\"lat\">appellantur</form>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">appello</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>appell</stem><suff>antur</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>indicative</mood>\n<num>plural</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>passive</voice>\n<stemtype>conj1</stemtype>\n<derivtype>are_vb</derivtype>\n</infl>\n</entry>\n<entry>\n<dict>\n<hdwd xml:lang=\"lat\">appello#1</hdwd>\n<pofs order=\"1\">verb</pofs>\n</dict>\n<infl>\n<term xml:lang=\"lat\"><stem>appell</stem><suff>antur</suff></term>\n<pofs order=\"1\">verb</pofs>\n<mood>subjunctive</mood>\n<num>plural</num>\n<pers>3rd</pers>\n<tense>present</tense>\n<voice>passive</voice>\n<stemtype>conj3</stemtype>\n</infl>\n</entry>\n</word>\n</words>\n",
+    "opts": [
+      "-L",
+      "-S"
+    ]
+  }
+]

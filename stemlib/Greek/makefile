@@ -20,13 +20,13 @@ setup:
 	[ -d steminds ] || mkdir steminds
 
 clean:
-	[ -d derivs/ascii ] && rm -fr derivs/ascii
-	[ -d derivs/indices ] &&  rm -fr derivs/indices
-	[ -d derivs/out ] && rm -fr derivs/out
-	[ -d endtables/ascii ] && rm -fr endtables/ascii
-	[ -d endtables/indices ] && rm -fr endtables/indices
-	[ -d endtables/out ] && rm -fr endtables/out
-	[ -d steminds ] && rm -fr steminds
+	rm -fr derivs/ascii || true
+	rm -fr derivs/indices || true
+	rm -fr derivs/out || true
+	rm -fr endtables/ascii || true
+	rm -fr endtables/indices || true
+	rm -fr endtables/out || true
+	rm -fr steminds || true
 
 ends: nends vends
 

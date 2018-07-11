@@ -1,13 +1,12 @@
-# Morpheus Alpheios
+# Morpheus Perseids
 
 Morpheus is a morphological parsing tool originally written as part of the Perseus Project.
 It takes Ancient Greek or Latin text as input and performs a morphological analysis.
 
-Morpheus Alpheios is a
-[fork of Morpheus](https://github.com/alpheios-project/morpheus))
-used by the Alpheios Project
-and the
-[morph.perseids.org](http://morph.perseids.org/analysis/word?lang=grc&engine=morpheusgrc&word=%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82).
+Morpheus Perseids is a fork of the Alpheios Project version of
+[Morpheus](https://github.com/alpheios-project/morpheus)
+which is used by the
+[morph.perseids.org](http://morph.perseids.org/analysis/word?lang=grc&engine=morpheusgrc&word=%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82)
 API.
 
 ## Building
@@ -17,19 +16,19 @@ API.
 #### From Docker Hub
 
 ```bash
-docker pull perseidsproject/morpheus-alpheios
+docker pull perseidsproject/morpheus-perseids
 
-docker run -it morpheus-alpheios /bin/bash
+docker run -it morpheus-perseids /bin/bash
 ```
 
-(See project on [Docker Hub](https://hub.docker.com/r/perseidsproject/morpheus-alpheios/).)
+(See project on [Docker Hub](https://hub.docker.com/r/perseidsproject/morpheus-perseids/).)
 
 #### Building container
 
 ```
-docker build -t morpheus-alpheios .
+docker build -t morpheus-perseids .
 
-docker run -it morpheus-alpheios /bin/bash
+docker run -it morpheus-perseids /bin/bash
 ```
 
 ### macOS

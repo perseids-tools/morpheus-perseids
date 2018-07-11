@@ -588,7 +588,6 @@
 
 :le:so/s
 :aj:s os_h_on suff_acc
-:wd:so/s pron1 2nd masc/fem nom sg
 
 :le:sou=
 :wd:sou= exclam
@@ -3536,7 +3535,6 @@
 
 :le:sfe/teros
 :aj:sfeter os_h_on
-:wd:sfe/teros pron1 3rd masc/fem nom pl
 
 :le:sfhkia/
 :no:sfhki h_hs suff_acc fem
@@ -7926,7 +7924,6 @@
 
 :le:u(me/teros
 :aj:u(_meter os_h_on
-:wd:u(me/teros pron1 2nd masc/fem nom pl
 :wd:u(me/tero/nde adverb
 
 :le:u(mh/n1

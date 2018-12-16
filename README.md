@@ -18,7 +18,7 @@ API.
 ```bash
 docker pull perseidsproject/morpheus-perseids
 
-docker run -it morpheus-perseids /bin/bash
+docker run -it perseidsproject/morpheus-perseids /bin/bash
 ```
 
 (See project on [Docker Hub](https://hub.docker.com/r/perseidsproject/morpheus-perseids/).)

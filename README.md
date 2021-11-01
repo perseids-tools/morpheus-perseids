@@ -132,7 +132,7 @@ $ MORPHLIB=stemlib bin/morpheus -L 'cactus'
 
 Requirements:
 
-- `ruby` (~2.5)
+- `ruby` (~3.0)
 
 `./test/test.rb`
 

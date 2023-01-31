@@ -57,7 +57,7 @@ Requirements:
 ```bash
 cd src/
 make clean
-CFLAGS='-std=gnu89' make
+CFLAGS='-std=gnu89 -fcommon' make
 make install
 ```
 
